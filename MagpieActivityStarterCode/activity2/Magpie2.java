@@ -123,7 +123,7 @@ public class Magpie2
    response = "You don't say.";
   }
   /**
-   * two more non-commital String
+   * two more non-committal String
    */
   else if (whichResponse == 4) {
     response = "Say something fun";
