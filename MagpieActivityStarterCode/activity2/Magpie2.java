@@ -129,7 +129,7 @@ public class Magpie2
     response = "Say something fun";
   }
    
-   else {
+  else if (whichResponse == 5) {
     response = "Lol.";
    }
 
